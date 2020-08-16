@@ -1,7 +1,7 @@
 # Progressive Web Application Skeleton
 #### An opinionated PWA Skeleton.
 
-> This skeleton utilizes [Google's best practices](https://developers.google.com/web/fundamentals) and [SASS Guidelines](https://sass-guidelin.es/#the-7-1-pattern)
+> This skeleton utilizes [Google's best practices](https://developers.google.com/web/fundamentals) for [PWA](https://web.dev/progressive-web-apps/)s and [SASS Guidelines](https://sass-guidelin.es/#the-7-1-pattern)
 
 ##### The skeleton languages used are:
 - HTML
