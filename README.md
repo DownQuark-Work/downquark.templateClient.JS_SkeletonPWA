@@ -15,7 +15,7 @@
 - 7-1 SCSS Boilerplate
 - The [PRPL Pattern](https://web.dev/apply-instant-loading-with-prpl/)
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) Audits
-- [RAIL](https://web.dev/rail/) Performance Monitoring
+- [RAIL](https://web.dev/rail/) [Performance Monitoring](https://web.dev/measure/)
  
 
 ##### The following functionality will be included:
