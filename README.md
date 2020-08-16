@@ -12,7 +12,7 @@
 
 ##### The skeleton will utilize:
 - The [App Shell Model](https://developers.google.com/web/fundamentals/architecture/app-shell)
-- The [7-1 SCSS](https://sass-guidelin.es/#the-7-1-pattern) Pattern
+- The [7-1 SCSS Pattern](https://sass-guidelin.es/#the-7-1-pattern) with [CSS Guidelines](https://cssguidelin.es)
 - The [PRPL Pattern](https://web.dev/apply-instant-loading-with-prpl/)
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) Audits
 - [RAIL](https://web.dev/rail/) [Performance Monitoring](https://web.dev/measure/)
