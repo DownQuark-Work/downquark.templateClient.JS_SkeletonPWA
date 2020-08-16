@@ -43,3 +43,6 @@ _** Resources **_
 - [CodeLabs](https://codelabs.developers.google.com)
 - [Further Reading](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#7)
 - [GTMetrix](https://gtmetrix.com/)
+- [SCSS Media Queries](https://raw.githubusercontent.com/eduardoboucas/include-media/master/dist/_include-media.scss)
+  - [Include Media](https://eduardoboucas.github.io/include-media/)
+- [Misc Sass](https://hugogiraudel.com/projects/)
