@@ -44,6 +44,7 @@
 The default manifest and web files will be usable as a [Google Chrome](https://www.google.com/chrome/) [Extension](https://developer.chrome.com/extensions/getstarted).
 
 
+
 _** Resources **_
 - [CodeLabs](https://codelabs.developers.google.com)
 - [Further Reading](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#7)
@@ -55,3 +56,4 @@ _** Resources **_
 - [Chrome Samples](https://github.com/GoogleChrome/samples)
 - [Awesome](https://github.com/hemanth/awesome-pwa) [Web](https://github.com/webhintio/hint) [Hints](https://tools.ietf.org/html/draft-ietf-httpbis-client-hints-06) & [Skills](https://andreasbm.github.io/web-skills/?compact)
 - [pushing](https://developers.google.com/web/updates/2015/03/push-notifications-on-the-open-web)
+- [Web Skills](https://andreasbm.github.io/web-skills/?compact)
