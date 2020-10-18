@@ -1,0 +1,45 @@
+# Mac OS
+.DS*
+
+# Yarn
+.yarn/*
+!.yarn/cache
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Modules
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional private notes directory
+_notes/.ignored/
+
+# Yarn Integrity file
+.yarn-integrity
+
+# parcel outputs (https://parceljs.org/)
+*parcel-cache
+.cache
+publish/module
+
+# tap testing
+coverage/
+.nyc*
+
+# flow output
+dist/
+flow-typed/stubs/*
+
