@@ -3,12 +3,14 @@
 
 # Yarn
 .yarn/*
-!.yarn/cache # uncomment for Zero-Installs
 !.yarn/releases
 !.yarn/plugins
 !.yarn/sdks
 !.yarn/versions
-# .pnp.* # uncomment for non-Zero-Installs
+#   !.yarn/cache for Zero-Installs
+#   .pnp.* for non-Zero-Installs
+!.yarn/cache
+#.pnp.*
 
 # Logs
 logs
